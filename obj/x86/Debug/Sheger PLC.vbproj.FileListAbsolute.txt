@@ -1,0 +1,41 @@
+c:\users\bisrat\documents\visual studio 2010\Projects\Sheger PLC\Sheger PLC\obj\x86\Debug\Sheger_PLC.MainForm.resources
+c:\users\bisrat\documents\visual studio 2010\Projects\Sheger PLC\Sheger PLC\obj\x86\Debug\Sheger_PLC.Resources.resources
+c:\users\bisrat\documents\visual studio 2010\Projects\Sheger PLC\Sheger PLC\obj\x86\Debug\Sheger PLC.vbproj.GenerateResource.Cache
+c:\users\bisrat\documents\visual studio 2010\Projects\Sheger PLC\Sheger PLC\bin\Debug\Sheger PLC.exe
+c:\users\bisrat\documents\visual studio 2010\Projects\Sheger PLC\Sheger PLC\bin\Debug\Sheger PLC.pdb
+c:\users\bisrat\documents\visual studio 2010\Projects\Sheger PLC\Sheger PLC\bin\Debug\Sheger PLC.xml
+c:\users\bisrat\documents\visual studio 2010\Projects\Sheger PLC\Sheger PLC\obj\x86\Debug\Sheger PLC.exe
+c:\users\bisrat\documents\visual studio 2010\Projects\Sheger PLC\Sheger PLC\obj\x86\Debug\Sheger PLC.xml
+c:\users\bisrat\documents\visual studio 2010\Projects\Sheger PLC\Sheger PLC\obj\x86\Debug\Sheger PLC.pdb
+c:\users\bisrat\documents\visual studio 2010\Projects\Sheger PLC\Sheger PLC\obj\x86\Debug\Sheger_PLC.About.resources
+c:\users\bisrat\documents\visual studio 2010\Projects\Sheger PLC\Sheger PLC\bin\Debug\am-ET\Sheger PLC.resources.dll
+c:\users\bisrat\documents\visual studio 2010\Projects\Sheger PLC\Sheger PLC\obj\x86\Debug\Sheger_PLC.IndividualCustomerRegestration.resources
+c:\users\bisrat\documents\visual studio 2010\Projects\Sheger PLC\Sheger PLC\obj\x86\Debug\Sheger_PLC.IndividualCustomerRegestration.am-ET.resources
+c:\users\bisrat\documents\visual studio 2010\Projects\Sheger PLC\Sheger PLC\obj\x86\Debug\am-ET\Sheger PLC.resources.dll
+c:\users\bisrat\documents\visual studio 2010\Projects\Sheger PLC\Sheger PLC\obj\x86\Debug\Sheger_PLC.SearchIdividualCustomer.resources
+C:\Users\Bisrat\documents\visual studio 2010\Projects\Sheger PLC\Sheger PLC\obj\x86\Debug\Sheger_PLC.OrganizationCustomerRegistration.resources
+C:\Users\Bisrat\documents\visual studio 2010\Projects\Sheger PLC\Sheger PLC\obj\x86\Debug\Sheger_PLC.SearchOrganizationCustomer.resources
+C:\Users\Bisrat\documents\visual studio 2010\Projects\Sheger PLC\Sheger PLC\obj\x86\Debug\Sheger_PLC.HelpContent.resources
+C:\Users\Bisrat\documents\visual studio 2010\Projects\Sheger PLC\Sheger PLC\bin\Debug\Sheger PLC.exe.config
+C:\Users\Bisrat\documents\visual studio 2010\Projects\Sheger PLC\Sheger PLC\obj\x86\Debug\Sheger_PLC.Email_and_Website.resources
+C:\Users\Bisrat\documents\visual studio 2010\Projects\Sheger PLC\Sheger PLC\obj\x86\Debug\Sheger_PLC.Important_Websites.resources
+C:\Users\Bisrat\documents\visual studio 2010\Projects\Sheger PLC\Sheger PLC\obj\x86\Debug\Sheger_PLC.Mobile_Information.resources
+C:\Users\Bisrat\documents\visual studio 2010\Projects\Sheger PLC\Sheger PLC\bin\Debug\ShegerDB.accdb
+C:\Users\Bisrat\documents\visual studio 2010\Projects\Sheger PLC\Sheger PLC\obj\x86\Debug\Sheger PLC.exe.manifest
+C:\Users\Bisrat\documents\visual studio 2010\Projects\Sheger PLC\Sheger PLC\bin\Debug\Sheger PLC.exe.manifest
+C:\Users\Bisrat\documents\visual studio 2010\Projects\Sheger PLC\Sheger PLC\bin\Debug\Sheger PLC.application
+C:\Users\Bisrat\documents\visual studio 2010\Projects\Sheger PLC\Sheger PLC\obj\x86\Debug\Sheger PLC.application
+C:\Users\Bisrat\documents\visual studio 2010\Projects\Sheger PLC\Sheger PLC\obj\x86\Debug\Sheger_PLC.Banks.resources
+C:\Users\Bisrat\documents\visual studio 2010\Projects\Sheger PLC\Sheger PLC\obj\x86\Debug\Sheger_PLC.BookBorrow.resources
+C:\Users\Bisrat\documents\visual studio 2010\Projects\Sheger PLC\Sheger PLC\obj\x86\Debug\Sheger_PLC.BookRegistration.resources
+C:\Users\Bisrat\documents\visual studio 2010\Projects\Sheger PLC\Sheger PLC\obj\x86\Debug\Sheger_PLC.Courts.resources
+C:\Users\Bisrat\documents\visual studio 2010\Projects\Sheger PLC\Sheger PLC\obj\x86\Debug\Sheger_PLC.ReturnBook.resources
+C:\Users\Bisrat\documents\visual studio 2010\Projects\Sheger PLC\Sheger PLC\obj\x86\Debug\Sheger_PLC.CaseAssociation.resources
+C:\Users\Bisrat\documents\visual studio 2010\Projects\Sheger PLC\Sheger PLC\obj\x86\Debug\Sheger_PLC.TestSearch.resources
+C:\Users\Bisrat\documents\visual studio 2010\Projects\Sheger PLC\Sheger PLC\obj\x86\Debug\Sheger_PLC.UpdateIndividualCustomer.resources
+C:\Users\Bisrat\documents\visual studio 2010\Projects\Sheger PLC\Sheger PLC\obj\x86\Debug\Sheger_PLC.G_Note.resources
+C:\Users\Bisrat\documents\visual studio 2010\Projects\Sheger PLC\Sheger PLC\obj\x86\Debug\Sheger PLC.vbprojResolveAssemblyReference.cache
+C:\Users\Bisrat\documents\visual studio 2010\Projects\Sheger PLC\Sheger PLC\obj\x86\Debug\Sheger_PLC.BookRepForm.resources
+C:\Users\Bisrat\documents\visual studio 2010\Projects\Sheger PLC\Sheger PLC\obj\x86\Debug\Sheger_PLC.CustomersRepForm.resources
+C:\Users\Bisrat\documents\visual studio 2010\Projects\Sheger PLC\Sheger PLC\obj\x86\Debug\Sheger_PLC.OrganizationRepForm.resources
+C:\Users\Bisrat\documents\visual studio 2010\Projects\Sheger PLC\Sheger PLC\obj\x86\Debug\Sheger_PLC.SearchBook.resources

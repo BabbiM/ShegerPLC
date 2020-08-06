@@ -1,0 +1,220 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ShegerPLC
+</name>
+</assembly>
+<members>
+<member name="P:Sheger_PLC.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Sheger_PLC.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Sheger_PLC.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:Sheger_PLC.ShegerDBDataSet.BanksDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sheger_PLC.ShegerDBDataSet.BookDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sheger_PLC.ShegerDBDataSet.BookBorrowDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sheger_PLC.ShegerDBDataSet.CaseDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sheger_PLC.ShegerDBDataSet.CourtsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sheger_PLC.ShegerDBDataSet.CustomerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sheger_PLC.ShegerDBDataSet.EmailDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sheger_PLC.ShegerDBDataSet.IndividualsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sheger_PLC.ShegerDBDataSet.MobileDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sheger_PLC.ShegerDBDataSet.OrganizationsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sheger_PLC.ShegerDBDataSet.BanksRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sheger_PLC.ShegerDBDataSet.BookRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sheger_PLC.ShegerDBDataSet.BookBorrowRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sheger_PLC.ShegerDBDataSet.CaseRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sheger_PLC.ShegerDBDataSet.CourtsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sheger_PLC.ShegerDBDataSet.CustomerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sheger_PLC.ShegerDBDataSet.EmailRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sheger_PLC.ShegerDBDataSet.IndividualsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sheger_PLC.ShegerDBDataSet.MobileRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sheger_PLC.ShegerDBDataSet.OrganizationsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sheger_PLC.ShegerDBDataSet.BanksRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sheger_PLC.ShegerDBDataSet.BookRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sheger_PLC.ShegerDBDataSet.BookBorrowRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sheger_PLC.ShegerDBDataSet.CaseRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sheger_PLC.ShegerDBDataSet.CourtsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sheger_PLC.ShegerDBDataSet.CustomerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sheger_PLC.ShegerDBDataSet.EmailRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sheger_PLC.ShegerDBDataSet.IndividualsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sheger_PLC.ShegerDBDataSet.MobileRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sheger_PLC.ShegerDBDataSet.OrganizationsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sheger_PLC.ShegerDBDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Sheger_PLC.ShegerDBDataSetTableAdapters.BanksTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sheger_PLC.ShegerDBDataSetTableAdapters.BookTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sheger_PLC.ShegerDBDataSetTableAdapters.BookBorrowTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sheger_PLC.ShegerDBDataSetTableAdapters.CaseTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sheger_PLC.ShegerDBDataSetTableAdapters.CourtsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sheger_PLC.ShegerDBDataSetTableAdapters.CustomerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sheger_PLC.ShegerDBDataSetTableAdapters.EmailTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sheger_PLC.ShegerDBDataSetTableAdapters.IndividualsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sheger_PLC.ShegerDBDataSetTableAdapters.MobileTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sheger_PLC.ShegerDBDataSetTableAdapters.OrganizationsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Sheger_PLC.ShegerDBDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Sheger_PLC.ShegerDBDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Sheger_PLC.ShegerDBDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Sheger_PLC.ShegerDBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Sheger_PLC.ShegerDBDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Sheger_PLC.ShegerDBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Sheger_PLC.ShegerDBDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Sheger_PLC.ShegerDBDataSetTableAdapters.TableAdapterManager.UpdateAll(Sheger_PLC.ShegerDBDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Sheger_PLC.ShegerDBDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Sheger_PLC.ShegerDBDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Sheger_PLC.ShegerDBDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>
